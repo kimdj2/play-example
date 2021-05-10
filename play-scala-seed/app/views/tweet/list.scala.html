@@ -1,15 +1,13 @@
-@*
-以下はview templeteでの引数を受け取る記載です。
-今回はTweetの一覧を取得するため@(tweets: Seq[Tweet]) となっています。
-*@
 @(tweets: Seq[Tweet])
 
 @main("一覧画面") {
   <h1>一覧画面です</h1>
   <ul>
-    @* Twirlでのfor記法です。forと(の間にスペースを入れると動かないので注意してください *1 *@
     @for(tweet <- tweets) {
-    <li>@tweet.content</li>
+    <li>
+      @* よくウェブ上で @routes.HomeController.index のようなものをみるがこれはtwirlではデフォルトでcontrollers.routesがインポートされているためcontroller部分が省略されているだけ。*@
+      <a href="@controllers.tweet.routes.TweetController.show(tweet.id.getOrElse(0))">@tweet.content</a>
+    </li>
     }
   </ul>
 }

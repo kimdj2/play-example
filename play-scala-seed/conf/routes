@@ -11,3 +11,4 @@ GET     /assets/*file               controllers.Assets.versioned(path="/public",
 
 
 GET     /tweet/list                 controllers.tweet.TweetController.list
+GET     /tweet/:id                  controllers.tweet.TweetController.show(id: Long)
