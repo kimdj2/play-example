@@ -11,4 +11,8 @@ GET     /assets/*file               controllers.Assets.versioned(path="/public",
 
 
 GET     /tweet/list                 controllers.tweet.TweetController.list
-GET     /tweet/:id                  controllers.tweet.TweetController.show(id: Long)
+GET     /tweet/$id<[0-9]+>          controllers.tweet.TweetController.show(id: Long)
+# 下の2つを追加
+GET     /tweet/store                controllers.tweet.TweetController.register
+# actionがないとエラーになるので一旦コメントアウト
+POST    /tweet/store                controllers.tweet.TweetController.store

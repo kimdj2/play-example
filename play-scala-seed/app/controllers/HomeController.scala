@@ -3,7 +3,6 @@ package controllers
 import javax.inject._
 import play.api._
 import play.api.mvc._
-
 /**
  * This controller creates an `Action` to handle HTTP requests to the
  * application's home page.
@@ -19,6 +18,6 @@ class HomeController @Inject()(val controllerComponents: ControllerComponents) e
    * a path of `/`.
    */
   def index() = Action { implicit request: Request[AnyContent] =>
-    Ok(views.html.index())
+    Redirect(tweet.routes.TweetController.list)
   }
 }

@@ -4981,3 +4981,648 @@ WARNING: Unmatched cancel notification for request id 332
 [0m2021.05.11 00:02:20 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/models/Tweat.scala[0m
 May 11, 2021 12:02:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 WARNING: Unmatched cancel notification for request id 62
+[0m2021.05.11 00:41:02 INFO  shutting down Metals[0m
+[0m2021.05.11 23:30:36 INFO  Started: Metals version 0.10.2 in workspace '/mnt/d/project2/play-example' for client vscode 1.56.0.[0m
+[0m2021.05.11 23:30:44 INFO  time: initialize in 8.79s[0m
+[0m2021.05.11 23:30:46 WARN  Build server is not auto-connectable.[0m
+[0m2021.05.11 23:30:47 INFO  skipping build import with status 'Requested'[0m
+[0m2021.05.11 23:38:06 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/HomeController.scala[0m
+[0m2021.05.11 23:38:25 INFO  no build target: using presentation compiler with only scala-library: 2.12.13[0m
+[0m2021.05.11 23:38:30 INFO  time: code lens generation in 22s[0m
+[0m2021.05.11 23:40:15 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/HomeController.scala[0m
+[0m2021.05.11 23:40:18 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/HomeController.scala[0m
+[0m2021.05.11 23:40:21 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/tweet/TweetController.scala[0m
+May 11, 2021 11:40:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 58
+May 11, 2021 11:40:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 66
+Exception in thread "pool-3-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+[0m2021.05.11 23:40:55 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/HomeController.scala[0m
+[0m2021.05.11 23:41:02 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/HomeController.scala[0m
+Exception in thread "pool-3-thread-2" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Exception in thread "pool-3-thread-3" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Exception in thread "pool-3-thread-4" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+May 11, 2021 11:41:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 99
+Exception in thread "pool-3-thread-5" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Exception in thread "pool-3-thread-6" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Exception in thread "pool-3-thread-7" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+May 11, 2021 11:42:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 140
+May 11, 2021 11:42:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 147
+May 11, 2021 11:42:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 163
+May 11, 2021 11:42:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 183
+[0m2021.05.11 23:42:52 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/HomeController.scala[0m
+May 11, 2021 11:42:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.InterruptedException
+java.util.concurrent.CompletionException: java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2073)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:42)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.pc.VirtualFileParams.checkCanceled(VirtualFileParams.java:25)
+	at scala.meta.internal.pc.CompletionProvider.$anonfun$completions$1(CompletionProvider.scala:76)
+	at scala.collection.Iterator$$anon$10.next(Iterator.scala:461)
+	at scala.collection.Iterator.toStream(Iterator.scala:1417)
+	at scala.collection.Iterator.toStream$(Iterator.scala:1416)
+	at scala.collection.AbstractIterator.toStream(Iterator.scala:1431)
+	at scala.collection.Iterator.$anonfun$toStream$1(Iterator.scala:1417)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1173)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1163)
+	at scala.collection.immutable.StreamIterator.$anonfun$next$1(Stream.scala:1061)
+	at scala.collection.immutable.StreamIterator$LazyCell.v$lzycompute(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator$LazyCell.v(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator.hasNext(Stream.scala:1055)
+	at scala.collection.convert.Wrappers$IteratorWrapper.hasNext(Wrappers.scala:31)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:134)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:40)
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.write(TypeAdapterRuntimeTypeWrapper.java:69)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1.write(ReflectiveTypeAdapterFactory.java:127)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.write(ReflectiveTypeAdapterFactory.java:245)
+	at com.google.gson.Gson.toJson(Gson.java:704)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:423)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:55)
+	at com.google.gson.Gson.toJson(Gson.java:704)
+	at com.google.gson.Gson.toJson(Gson.java:683)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:145)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:140)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:59)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.lambda$handleRequest$1(RemoteEndpoint.java:281)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714)
+	... 8 more
+
+[0m2021.05.11 23:43:02 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/HomeController.scala[0m
+May 11, 2021 11:43:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 226
+May 11, 2021 11:43:03 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: file%3A%2F%2F%2Fmnt%2Fd%2Fproject2%2Fplay-example%2Fplay-scala-seed%2Fapp%2Fcontrollers%2FHomeController.scala:10: error: . expected but \n found
+ */
+   ^
+file%3A%2F%2F%2Fmnt%2Fd%2Fproject2%2Fplay-example%2Fplay-scala-seed%2Fapp%2Fcontrollers%2FHomeController.scala:10: error: . expected but \n found
+ */
+   ^
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.ScalametaParser.syntaxErrorExpected(ScalametaParser.scala:855)
+	at scala.meta.internal.parsers.ScalametaParser.accept(ScalametaParser.scala:861)
+	at scala.meta.internal.parsers.ScalametaParser.dotselectors$1(ScalametaParser.scala:3881)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$importer$1(ScalametaParser.scala:3898)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:820)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:836)
+	at scala.meta.internal.parsers.ScalametaParser.importer(ScalametaParser.scala:3874)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$importStmt$2(ScalametaParser.scala:3868)
+	at scala.meta.internal.parsers.ScalametaParser.partOrEllipsis$1(ScalametaParser.scala:1358)
+	at scala.meta.internal.parsers.ScalametaParser.tokenSeparated(ScalametaParser.scala:1361)
+	at scala.meta.internal.parsers.ScalametaParser.commaSeparated(ScalametaParser.scala:1370)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$importStmt$1(ScalametaParser.scala:3868)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:820)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:836)
+	at scala.meta.internal.parsers.ScalametaParser.importStmt(ScalametaParser.scala:3866)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4851)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4843)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4833)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:4842)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:5048)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$9(ScalametaParser.scala:5054)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:820)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:5054)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:820)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:836)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:5022)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:5005)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:820)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:836)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:5004)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:5010)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:142)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:52)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:142)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$257.apply(ScalametaParser.scala:5067)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.semanticdb.scalac.ParseOps$XtensionCompilationUnitSource.toSource(ParseOps.scala:17)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument.toTextDocument(TextDocumentOps.scala:201)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:51)
+
+May 11, 2021 11:43:05 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: file%3A%2F%2F%2Fmnt%2Fd%2Fproject2%2Fplay-example%2Fplay-scala-seed%2Fapp%2Fcontrollers%2FHomeController.scala:10: error: . expected but \n found
+ */
+   ^
+file%3A%2F%2F%2Fmnt%2Fd%2Fproject2%2Fplay-example%2Fplay-scala-seed%2Fapp%2Fcontrollers%2FHomeController.scala:10: error: . expected but \n found
+ */
+   ^
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.ScalametaParser.syntaxErrorExpected(ScalametaParser.scala:855)
+	at scala.meta.internal.parsers.ScalametaParser.accept(ScalametaParser.scala:861)
+	at scala.meta.internal.parsers.ScalametaParser.dotselectors$1(ScalametaParser.scala:3881)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$importer$1(ScalametaParser.scala:3898)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:820)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:836)
+	at scala.meta.internal.parsers.ScalametaParser.importer(ScalametaParser.scala:3874)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$importStmt$2(ScalametaParser.scala:3868)
+	at scala.meta.internal.parsers.ScalametaParser.partOrEllipsis$1(ScalametaParser.scala:1358)
+	at scala.meta.internal.parsers.ScalametaParser.tokenSeparated(ScalametaParser.scala:1361)
+	at scala.meta.internal.parsers.ScalametaParser.commaSeparated(ScalametaParser.scala:1370)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$importStmt$1(ScalametaParser.scala:3868)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:820)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:836)
+	at scala.meta.internal.parsers.ScalametaParser.importStmt(ScalametaParser.scala:3866)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4851)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4843)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4833)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:4842)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:5048)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$9(ScalametaParser.scala:5054)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:820)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:5054)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:820)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:836)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:5022)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:5005)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:820)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:836)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:5004)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:5010)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:142)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:52)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:142)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$257.apply(ScalametaParser.scala:5067)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.semanticdb.scalac.ParseOps$XtensionCompilationUnitSource.toSource(ParseOps.scala:17)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument.toTextDocument(TextDocumentOps.scala:201)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:51)
+
+[0m2021.05.11 23:43:05 INFO  time: code lens generation in 1.17s[0m
+May 11, 2021 11:43:09 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: file%3A%2F%2F%2Fmnt%2Fd%2Fproject2%2Fplay-example%2Fplay-scala-seed%2Fapp%2Fcontrollers%2FHomeController.scala:10: error: . expected but \n found
+ */
+   ^
+file%3A%2F%2F%2Fmnt%2Fd%2Fproject2%2Fplay-example%2Fplay-scala-seed%2Fapp%2Fcontrollers%2FHomeController.scala:10: error: . expected but \n found
+ */
+   ^
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.ScalametaParser.syntaxErrorExpected(ScalametaParser.scala:855)
+	at scala.meta.internal.parsers.ScalametaParser.accept(ScalametaParser.scala:861)
+	at scala.meta.internal.parsers.ScalametaParser.dotselectors$1(ScalametaParser.scala:3881)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$importer$1(ScalametaParser.scala:3898)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:820)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:836)
+	at scala.meta.internal.parsers.ScalametaParser.importer(ScalametaParser.scala:3874)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$importStmt$2(ScalametaParser.scala:3868)
+	at scala.meta.internal.parsers.ScalametaParser.partOrEllipsis$1(ScalametaParser.scala:1358)
+	at scala.meta.internal.parsers.ScalametaParser.tokenSeparated(ScalametaParser.scala:1361)
+	at scala.meta.internal.parsers.ScalametaParser.commaSeparated(ScalametaParser.scala:1370)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$importStmt$1(ScalametaParser.scala:3868)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:820)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:836)
+	at scala.meta.internal.parsers.ScalametaParser.importStmt(ScalametaParser.scala:3866)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4851)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4843)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4833)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:4842)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:5048)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$9(ScalametaParser.scala:5054)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:820)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:5054)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:820)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:836)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:5022)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:5005)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:820)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:836)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:5004)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:5010)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:142)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:52)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:142)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$257.apply(ScalametaParser.scala:5067)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.semanticdb.scalac.ParseOps$XtensionCompilationUnitSource.toSource(ParseOps.scala:17)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument.toTextDocument(TextDocumentOps.scala:201)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:51)
+
+May 11, 2021 11:43:14 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: file%3A%2F%2F%2Fmnt%2Fd%2Fproject2%2Fplay-example%2Fplay-scala-seed%2Fapp%2Fcontrollers%2FHomeController.scala:10: error: . expected but \n found
+ */
+   ^
+file%3A%2F%2F%2Fmnt%2Fd%2Fproject2%2Fplay-example%2Fplay-scala-seed%2Fapp%2Fcontrollers%2FHomeController.scala:10: error: . expected but \n found
+ */
+   ^
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.ScalametaParser.syntaxErrorExpected(ScalametaParser.scala:855)
+	at scala.meta.internal.parsers.ScalametaParser.accept(ScalametaParser.scala:861)
+	at scala.meta.internal.parsers.ScalametaParser.dotselectors$1(ScalametaParser.scala:3881)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$importer$1(ScalametaParser.scala:3898)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:820)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:836)
+	at scala.meta.internal.parsers.ScalametaParser.importer(ScalametaParser.scala:3874)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$importStmt$2(ScalametaParser.scala:3868)
+	at scala.meta.internal.parsers.ScalametaParser.partOrEllipsis$1(ScalametaParser.scala:1358)
+	at scala.meta.internal.parsers.ScalametaParser.tokenSeparated(ScalametaParser.scala:1361)
+	at scala.meta.internal.parsers.ScalametaParser.commaSeparated(ScalametaParser.scala:1370)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$importStmt$1(ScalametaParser.scala:3868)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:820)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:836)
+	at scala.meta.internal.parsers.ScalametaParser.importStmt(ScalametaParser.scala:3866)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4851)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4843)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4833)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:4842)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:5048)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$9(ScalametaParser.scala:5054)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:820)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:5054)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:820)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:836)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:5022)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:5005)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:820)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:836)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:5004)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:5010)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:142)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:52)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:142)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$257.apply(ScalametaParser.scala:5067)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.semanticdb.scalac.ParseOps$XtensionCompilationUnitSource.toSource(ParseOps.scala:17)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument.toTextDocument(TextDocumentOps.scala:201)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:51)
+
+[0m2021.05.11 23:43:15 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/HomeController.scala[0m
+[0m2021.05.11 23:44:10 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/HomeController.scala[0m
+May 11, 2021 11:49:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 289
+May 11, 2021 11:49:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 295
+May 11, 2021 11:49:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 318
+May 11, 2021 11:49:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 324
+[0m2021.05.11 23:49:26 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/HomeController.scala[0m
+[0m2021.05.11 23:49:53 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/HomeController.scala[0m
+May 11, 2021 11:51:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 362
+May 11, 2021 11:52:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 386
+May 11, 2021 11:52:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 393
+[0m2021.05.11 23:52:54 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/HomeController.scala[0m
+[0m2021.05.11 23:52:55 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/HomeController.scala[0m
+[0m2021.05.11 23:53:00 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/HomeController.scala[0m
+[0m2021.05.11 23:53:04 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/HomeController.scala[0m
+Exception in thread "pool-3-thread-8" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+May 11, 2021 11:53:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 450
+[0m2021.05.11 23:54:40 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/HomeController.scala[0m
+May 12, 2021 12:00:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 534
+[0m2021.05.12 00:01:06 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/build.sbt[0m
+May 12, 2021 12:01:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 543
+May 12, 2021 12:25:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 548
+[0m2021.05.12 00:26:01 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/tweet/TweetController.scala[0m
+[0m2021.05.12 00:26:07 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/tweet/TweetController.scala[0m
+May 12, 2021 12:26:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 572
+May 12, 2021 12:26:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 577
+[0m2021.05.12 00:26:09 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/tweet/TweetController.scala[0m
+[0m2021.05.12 00:26:10 INFO  time: code lens generation in 1.89s[0m
+[0m2021.05.12 00:26:14 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/tweet/TweetController.scala[0m
+[0m2021.05.12 00:26:26 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/tweet/TweetController.scala[0m
+[0m2021.05.12 00:26:26 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/tweet/TweetController.scala[0m
+May 12, 2021 12:26:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 611
+[0m2021.05.12 00:26:26 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/tweet/TweetController.scala[0m
+[0m2021.05.12 00:26:28 INFO  time: code lens generation in 1.13s[0m
+[0m2021.05.12 00:26:31 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/models/Tweat.scala[0m
+May 12, 2021 12:26:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 627
+Exception in thread "pool-3-thread-9" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+[0m2021.05.12 00:39:54 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/build.sbt[0m
+[0m2021.05.12 00:39:59 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/project/plugins.sbt[0m
+[0m2021.05.12 00:40:01 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/project/plugins.sbt[0m
+May 12, 2021 12:40:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 743
+May 12, 2021 12:40:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 749
+Exception in thread "pool-3-thread-10" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Exception in thread "pool-3-thread-11" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+May 12, 2021 12:53:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 784
+May 12, 2021 12:53:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 789
+May 12, 2021 12:53:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 790
+May 12, 2021 12:53:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 794
+May 12, 2021 12:53:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 798
+May 12, 2021 12:53:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 801
+[0m2021.05.12 00:53:59 INFO  time: code lens generation in 1.82s[0m
+[0m2021.05.12 00:54:00 INFO  time: code lens generation in 2.98s[0m
+Exception in thread "pool-3-thread-12" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Exception in thread "pool-3-thread-13" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Exception in thread "pool-3-thread-14" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Exception in thread "pool-3-thread-15" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Exception in thread "pool-3-thread-16" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Exception in thread "pool-3-thread-17" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Exception in thread "pool-3-thread-18" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Exception in thread "pool-3-thread-19" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Exception in thread "pool-3-thread-20" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Exception in thread "pool-3-thread-21" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Exception in thread "pool-3-thread-22" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Exception in thread "pool-3-thread-23" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Exception in thread "pool-3-thread-24" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Exception in thread "pool-3-thread-25" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+May 12, 2021 12:58:34 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+May 12, 2021 1:01:10 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+May 12, 2021 1:01:36 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+[0m2021.05.12 01:01:42 INFO  no build target: using presentation compiler with only scala-library: 2.13.5[0m
+[0m2021.05.12 01:01:51 INFO  time: code lens generation in 11s[0m
+May 12, 2021 1:01:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 974
+Exception in thread "pool-4-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+May 12, 2021 1:01:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 975
+May 12, 2021 1:01:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 980
+Exception in thread "pool-4-thread-2" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Exception in thread "pool-4-thread-3" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+May 12, 2021 1:03:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1000
+[0m2021.05.12 01:03:51 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/project/plugins.sbt[0m
+May 12, 2021 1:04:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1012
+May 12, 2021 1:04:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1016
+May 12, 2021 1:04:56 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+May 12, 2021 1:04:59 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+May 12, 2021 1:05:00 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+May 12, 2021 1:05:21 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+May 12, 2021 1:05:21 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+May 12, 2021 1:05:22 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+May 12, 2021 1:05:22 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+May 12, 2021 1:05:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1029
+May 12, 2021 1:05:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1033
+May 12, 2021 1:09:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1132
+[0m2021.05.12 01:11:04 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/tweet/TweetController.scala[0m
+[0m2021.05.12 01:11:04 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/tweet/TweetController.scala[0m
+Exception in thread "pool-4-thread-4" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Exception in thread "pool-4-thread-5" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+[0m2021.05.12 01:11:19 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/tweet/TweetController.scala[0m
+[0m2021.05.12 01:11:21 INFO  time: code lens generation in 1.9s[0m
+[0m2021.05.12 01:11:48 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/tweet/TweetController.scala[0m
+Exception in thread "pool-4-thread-6" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+May 12, 2021 1:12:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1232
+May 12, 2021 1:13:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1252
+May 12, 2021 1:13:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1256
+[0m2021.05.12 01:16:14 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/tweet/TweetController.scala[0m
+[0m2021.05.12 01:16:14 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/tweet/TweetController.scala[0m
+[0m2021.05.12 01:16:19 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/tweet/TweetController.scala[0m
+[0m2021.05.12 01:16:41 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/tweet/TweetController.scala[0m
+May 12, 2021 1:21:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1338
