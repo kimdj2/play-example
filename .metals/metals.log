@@ -5626,3 +5626,13 @@ WARNING: Unmatched cancel notification for request id 1256
 [0m2021.05.12 01:16:41 WARN  no build target for: /mnt/d/project2/play-example/play-scala-seed/app/controllers/tweet/TweetController.scala[0m
 May 12, 2021 1:21:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 WARNING: Unmatched cancel notification for request id 1338
+[0m2021.05.12 02:02:33 INFO  shutting down Metals[0m
+[0m2021.05.12 21:47:50 INFO  Started: Metals version 0.10.2 in workspace '/mnt/d/project2/play-example' for client vscode 1.56.0.[0m
+[0m2021.05.12 21:47:58 INFO  time: initialize in 7.74s[0m
+[0m2021.05.12 21:48:01 WARN  Build server is not auto-connectable.[0m
+[0m2021.05.12 21:48:01 INFO  skipping build import with status 'Requested'[0m
+[0m2021.05.12 21:58:14 INFO  shutting down Metals[0m
+[0m2021.05.13 22:31:28 INFO  Started: Metals version 0.10.2 in workspace '/mnt/d/project2/play-example' for client vscode 1.56.1.[0m
+[0m2021.05.13 22:31:33 INFO  time: initialize in 4.93s[0m
+[0m2021.05.13 22:31:35 WARN  Build server is not auto-connectable.[0m
+[0m2021.05.13 22:31:36 INFO  skipping build import with status 'Requested'[0m
