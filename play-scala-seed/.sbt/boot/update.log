@@ -1,0 +1,604 @@
+setting 'ivy.default.settings.dir' to 'jar:file:/usr/share/sbt/bin/sbt-launch.jar!/org/apache/ivy/core/settings'
+setting 'ivy.basedir' to '/source/.'
+setting 'ivy.default.conf.dir' to 'jar:file:/usr/share/sbt/bin/sbt-launch.jar!/org/apache/ivy/core/settings'
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.SshResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.VsftpResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.version.PatternVersionMatcher in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.trigger.LogTrigger in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.ant.AntBuildTrigger in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.IvyRepResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.signer.bouncycastle.OpenPGPSignatureGenerator in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.conflict.RegexpConflictManager in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.SFTPResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.osgi.updatesite.UpdateSiteResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.ant.AntCallTrigger in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.MirroredURLResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.packager.PackagerResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.DualResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.VfsResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.JarResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.osgi.obr.OBRResolver in [] nor Ivy classloader
+impossible to define glob matcher: org.apache.ivy.plugins.matcher.GlobPatternMatcher was not found.
+setting 'jline.esc.timeout' to '0'
+setting 'java.runtime.name' to 'OpenJDK Runtime Environment'
+setting 'sun.boot.library.path' to '/usr/local/openjdk-8/jre/lib/amd64'
+setting 'java.vm.version' to '25.242-b08'
+setting 'java.vm.vendor' to 'Oracle Corporation'
+setting 'java.vendor.url' to 'http://java.oracle.com/'
+setting 'path.separator' to ':'
+setting 'java.vm.name' to 'OpenJDK 64-Bit Server VM'
+setting 'file.encoding.pkg' to 'sun.io'
+setting 'sun.java.launcher' to 'SUN_STANDARD'
+setting 'sun.os.patch.level' to 'unknown'
+setting 'java.vm.specification.name' to 'Java Virtual Machine Specification'
+setting 'user.dir' to '/source'
+setting 'java.runtime.version' to '1.8.0_242-b08'
+setting 'java.awt.graphicsenv' to 'sun.awt.X11GraphicsEnvironment'
+setting 'java.endorsed.dirs' to '/usr/local/openjdk-8/jre/lib/endorsed'
+setting 'os.arch' to 'amd64'
+setting 'java.io.tmpdir' to '/tmp'
+setting 'line.separator' to '
+'
+setting 'java.vm.specification.vendor' to 'Oracle Corporation'
+setting 'os.name' to 'Linux'
+setting 'sun.jnu.encoding' to 'UTF-8'
+setting 'java.library.path' to '/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib'
+setting 'java.specification.name' to 'Java Platform API Specification'
+setting 'java.class.version' to '52.0'
+setting 'sun.management.compiler' to 'HotSpot 64-Bit Tiered Compilers'
+setting 'os.version' to '5.4.72-microsoft-standard-WSL2'
+setting 'user.home' to '/root'
+setting 'user.timezone' to 'Etc/UTC'
+setting 'java.awt.printerjob' to 'sun.print.PSPrinterJob'
+setting 'file.encoding' to 'UTF-8'
+setting 'java.specification.version' to '1.8'
+setting 'java.class.path' to '/usr/share/sbt/bin/sbt-launch.jar'
+setting 'user.name' to 'root'
+setting 'jline.shutdownhook' to 'false'
+setting 'java.vm.specification.version' to '1.8'
+setting 'sun.java.command' to '/usr/share/sbt/bin/sbt-launch.jar'
+setting 'java.home' to '/usr/local/openjdk-8/jre'
+setting 'sun.arch.data.model' to '64'
+setting 'user.language' to 'en'
+setting 'java.specification.vendor' to 'Oracle Corporation'
+setting 'awt.toolkit' to 'sun.awt.X11.XToolkit'
+setting 'java.vm.info' to 'mixed mode'
+setting 'java.version' to '1.8.0_242'
+setting 'java.ext.dirs' to '/usr/local/openjdk-8/jre/lib/ext:/usr/java/packages/lib/ext'
+setting 'sun.boot.class.path' to '/usr/local/openjdk-8/jre/lib/resources.jar:/usr/local/openjdk-8/jre/lib/rt.jar:/usr/local/openjdk-8/jre/lib/sunrsasign.jar:/usr/local/openjdk-8/jre/lib/jsse.jar:/usr/local/openjdk-8/jre/lib/jce.jar:/usr/local/openjdk-8/jre/lib/charsets.jar:/usr/local/openjdk-8/jre/lib/jfr.jar:/usr/local/openjdk-8/jre/classes'
+setting 'java.vendor' to 'Oracle Corporation'
+setting 'file.separator' to '/'
+setting 'java.vendor.url.bug' to 'http://bugreport.sun.com/bugreport/'
+setting 'sun.io.unicode.encoding' to 'UnicodeLittle'
+setting 'sun.cpu.endian' to 'little'
+setting 'sun.cpu.isalist' to ''
+setting 'ivy.default.ivy.user.dir' to '/root/.ivy2'
+setting 'ivy.home' to '/root/.ivy2'
+setting 'ivy.cache.dir' to '/root/.ivy2/cache'
+no default cache defined: set to /root/.ivy2/cache
+setting 'ivy.checksums' to 'sha1,md5'
+setting 'ivy.basedir' to '/root/.sbt/boot'
+setting 'basedir' to '/root/.sbt/boot'
+setting 'scala' to '2.12.10'
+:: resolving dependencies :: org.scala-sbt#boot-scala;1.0
+	confs: [default]
+	validate = true
+	refresh = false
+resolving dependencies for configuration 'default'
+== resolving dependencies for org.scala-sbt#boot-scala;1.0 [default]
+loadData of org.scala-sbt#boot-scala;1.0 of rootConf=default
+== resolving dependencies org.scala-sbt#boot-scala;1.0->org.scala-lang#scala-compiler;2.12.10 [default->default]
+loadData of org.scala-lang#scala-compiler;2.12.10 of rootConf=default
+	using redefined-public to resolve org.scala-lang#scala-compiler;2.12.10
+redefined-public: Checking cache for: dependency: org.scala-lang#scala-compiler;2.12.10 {default=[default, optional(default)]}
+redefined-public: no namespace defined: using system
+No entry is found in the ModuleDescriptorCache : /root/.ivy2/cache/org.scala-lang/scala-compiler/ivy-2.12.10.xml
+post 1.3 ivy file: using exact as default matcher
+	resolver not found: null => trying to use the one configured for org.scala-lang#scala-compiler;2.12.10
+	configured resolver found for org.scala-lang#scala-compiler;2.12.10: redefined-public: saving this data
+	found ivy file in cache for org.scala-lang#scala-compiler;2.12.10 (resolved by redefined-public): /root/.ivy2/cache/org.scala-lang/scala-compiler/ivy-2.12.10.xml
+redefined-public: module revision found in cache: org.scala-lang#scala-compiler;2.12.10
+redefined-public: no latest strategy defined: using default
+	found org.scala-lang#scala-compiler;2.12.10 in redefined-public
+== resolving dependencies org.scala-sbt#boot-scala;1.0->org.scala-lang#scala-compiler;2.12.10 [default->runtime]
+loadData of org.scala-lang#scala-compiler;2.12.10 of rootConf=default
+== resolving dependencies org.scala-sbt#boot-scala;1.0->org.scala-lang#scala-compiler;2.12.10 [default->compile]
+loadData of org.scala-lang#scala-compiler;2.12.10 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.12.10->org.scala-lang#scala-library;2.12.10 [compile->master(*)]
+loadData of org.scala-lang#scala-library;2.12.10 of rootConf=default
+	using redefined-public to resolve org.scala-lang#scala-library;2.12.10
+redefined-public: Checking cache for: dependency: org.scala-lang#scala-library;2.12.10 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
+No entry is found in the ModuleDescriptorCache : /root/.ivy2/cache/org.scala-lang/scala-library/ivy-2.12.10.xml
+post 1.3 ivy file: using exact as default matcher
+	resolver not found: null => trying to use the one configured for org.scala-lang#scala-library;2.12.10
+	configured resolver found for org.scala-lang#scala-library;2.12.10: redefined-public: saving this data
+	found ivy file in cache for org.scala-lang#scala-library;2.12.10 (resolved by redefined-public): /root/.ivy2/cache/org.scala-lang/scala-library/ivy-2.12.10.xml
+redefined-public: module revision found in cache: org.scala-lang#scala-library;2.12.10
+	found org.scala-lang#scala-library;2.12.10 in redefined-public
+== resolving dependencies org.scala-lang#scala-compiler;2.12.10->org.scala-lang#scala-library;2.12.10 [compile->compile(*)]
+loadData of org.scala-lang#scala-library;2.12.10 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.12.10->org.scala-lang#scala-library;2.12.10 [compile->default]
+loadData of org.scala-lang#scala-library;2.12.10 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.12.10->org.scala-lang#scala-library;2.12.10 [compile->runtime]
+loadData of org.scala-lang#scala-library;2.12.10 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.12.10->org.scala-lang#scala-library;2.12.10 [compile->compile]
+loadData of org.scala-lang#scala-library;2.12.10 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.12.10->org.scala-lang#scala-library;2.12.10 [compile->master]
+loadData of org.scala-lang#scala-library;2.12.10 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.12.10->org.scala-lang#scala-library;2.12.10 [compile->runtime(*)]
+loadData of org.scala-lang#scala-library;2.12.10 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.12.10->org.scala-lang#scala-library;2.12.10 [compile->compile]
+loadData of org.scala-lang#scala-library;2.12.10 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-lang#scala-compiler;2.12.10->org.scala-lang#scala-reflect;2.12.10 [compile->master(*)]
+loadData of org.scala-lang#scala-reflect;2.12.10 of rootConf=default
+	using redefined-public to resolve org.scala-lang#scala-reflect;2.12.10
+redefined-public: Checking cache for: dependency: org.scala-lang#scala-reflect;2.12.10 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
+No entry is found in the ModuleDescriptorCache : /root/.ivy2/cache/org.scala-lang/scala-reflect/ivy-2.12.10.xml
+post 1.3 ivy file: using exact as default matcher
+	resolver not found: null => trying to use the one configured for org.scala-lang#scala-reflect;2.12.10
+	configured resolver found for org.scala-lang#scala-reflect;2.12.10: redefined-public: saving this data
+	found ivy file in cache for org.scala-lang#scala-reflect;2.12.10 (resolved by redefined-public): /root/.ivy2/cache/org.scala-lang/scala-reflect/ivy-2.12.10.xml
+redefined-public: module revision found in cache: org.scala-lang#scala-reflect;2.12.10
+	found org.scala-lang#scala-reflect;2.12.10 in redefined-public
+== resolving dependencies org.scala-lang#scala-compiler;2.12.10->org.scala-lang#scala-reflect;2.12.10 [compile->compile(*)]
+loadData of org.scala-lang#scala-reflect;2.12.10 of rootConf=default
+== resolving dependencies org.scala-lang#scala-reflect;2.12.10->org.scala-lang#scala-library;2.12.10 [compile->master(*)]
+loadData of org.scala-lang#scala-library;2.12.10 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-lang#scala-reflect;2.12.10->org.scala-lang#scala-library;2.12.10 [compile->compile(*)]
+loadData of org.scala-lang#scala-library;2.12.10 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-lang#scala-compiler;2.12.10->org.scala-lang#scala-reflect;2.12.10 [compile->runtime(*)]
+loadData of org.scala-lang#scala-reflect;2.12.10 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.12.10->org.scala-lang#scala-reflect;2.12.10 [compile->compile]
+loadData of org.scala-lang#scala-reflect;2.12.10 of rootConf=default
+== resolving dependencies org.scala-lang#scala-reflect;2.12.10->org.scala-lang#scala-library;2.12.10 [runtime->runtime(*)]
+loadData of org.scala-lang#scala-library;2.12.10 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-lang#scala-reflect;2.12.10->org.scala-lang#scala-library;2.12.10 [runtime->compile]
+loadData of org.scala-lang#scala-library;2.12.10 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-lang#scala-compiler;2.12.10->org.scala-lang.modules#scala-xml_2.12;1.0.6 [compile->master(*)]
+loadData of org.scala-lang.modules#scala-xml_2.12;1.0.6 of rootConf=default
+	using redefined-public to resolve org.scala-lang.modules#scala-xml_2.12;1.0.6
+redefined-public: Checking cache for: dependency: org.scala-lang.modules#scala-xml_2.12;1.0.6 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
+	no ivy file in cache for org.scala-lang.modules#scala-xml_2.12;1.0.6: tried /root/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/ivy-1.0.6.xml
+local: no namespace defined: using system
+	no ivy file in cache for org.scala-lang.modules#scala-xml_2.12;1.0.6: tried /root/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/ivy-1.0.6.xml
+	 trying /root/.ivy2/local/org.scala-lang.modules/scala-xml_2.12/1.0.6/ivys/ivy.xml
+		tried /root/.ivy2/local/org.scala-lang.modules/scala-xml_2.12/1.0.6/ivys/ivy.xml
+	local: resource not reachable for org.scala-lang.modules#scala-xml_2.12;1.0.6: res=/root/.ivy2/local/org.scala-lang.modules/scala-xml_2.12/1.0.6/ivys/ivy.xml
+	 trying /root/.ivy2/local/org.scala-lang.modules/scala-xml_2.12/1.0.6/jars/scala-xml_2.12.jar
+		tried /root/.ivy2/local/org.scala-lang.modules/scala-xml_2.12/1.0.6/jars/scala-xml_2.12.jar
+	local: resource not reachable for org.scala-lang.modules#scala-xml_2.12;1.0.6: res=/root/.ivy2/local/org.scala-lang.modules/scala-xml_2.12/1.0.6/jars/scala-xml_2.12.jar
+	local: no ivy file nor artifact found for org.scala-lang.modules#scala-xml_2.12;1.0.6
+local-preloaded-ivy: no namespace defined: using system
+	no ivy file in cache for org.scala-lang.modules#scala-xml_2.12;1.0.6: tried /root/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/ivy-1.0.6.xml
+	 trying file:////root/.sbt/preloaded/org.scala-lang.modules/scala-xml_2.12/1.0.6/ivys/ivy.xml
+		tried file:////root/.sbt/preloaded/org.scala-lang.modules/scala-xml_2.12/1.0.6/ivys/ivy.xml
+	local-preloaded-ivy: resource not reachable for org.scala-lang.modules#scala-xml_2.12;1.0.6: res=file:////root/.sbt/preloaded/org.scala-lang.modules/scala-xml_2.12/1.0.6/ivys/ivy.xml
+	local-preloaded-ivy: no ivy file found for org.scala-lang.modules#scala-xml_2.12;1.0.6
+local-preloaded: no namespace defined: using system
+	no ivy file in cache for org.scala-lang.modules#scala-xml_2.12;1.0.6: tried /root/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/ivy-1.0.6.xml
+	 trying file:////root/.sbt/preloaded/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.pom
+		tried file:////root/.sbt/preloaded/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.pom
+	local-preloaded: resource not reachable for org/scala-lang/modules#scala-xml_2.12;1.0.6: res=file:////root/.sbt/preloaded/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.pom
+	 trying file:////root/.sbt/preloaded/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar
+		tried file:////root/.sbt/preloaded/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar
+	local-preloaded: resource not reachable for org/scala-lang/modules#scala-xml_2.12;1.0.6: res=file:////root/.sbt/preloaded/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar
+	local-preloaded: no ivy file nor artifact found for org.scala-lang.modules#scala-xml_2.12;1.0.6
+Maven Central: no namespace defined: using system
+	no ivy file in cache for org.scala-lang.modules#scala-xml_2.12;1.0.6: tried /root/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/ivy-1.0.6.xml
+	 trying https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.pom
+		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.pom
+	Maven Central: found md file for org.scala-lang.modules#scala-xml_2.12;1.0.6
+		=> https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.pom (1.0.6)
+	parser = pom parser
+	no ivy file in cache for org.scala-lang.modules#scala-xml_2.12;1.0.6: tried /root/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/ivy-1.0.6.xml
+downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.pom ...
+	Maven Central: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.pom
+		to /root/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/ivy-1.0.6.xml.original.part
+sha1 file found for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.pom: checking...
+	Maven Central: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.pom.sha1
+		to /tmp/ivytmp8357296009810084583sha1
+sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.pom
+	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.pom(pom.original) (549ms)
+	 trying /root/.ivy2/local/org.scala-lang.modules/scala-xml_2.12/1.0.6/bundles/scala-xml_2.12.jar
+		tried /root/.ivy2/local/org.scala-lang.modules/scala-xml_2.12/1.0.6/bundles/scala-xml_2.12.jar
+	local: resource not reachable for org.scala-lang.modules#scala-xml_2.12;1.0.6: res=/root/.ivy2/local/org.scala-lang.modules/scala-xml_2.12/1.0.6/bundles/scala-xml_2.12.jar
+	 trying file:////root/.sbt/preloaded/org.scala-lang.modules/scala-xml_2.12/1.0.6/bundles/scala-xml_2.12.jar
+		tried file:////root/.sbt/preloaded/org.scala-lang.modules/scala-xml_2.12/1.0.6/bundles/scala-xml_2.12.jar
+	local-preloaded-ivy: resource not reachable for org.scala-lang.modules#scala-xml_2.12;1.0.6: res=file:////root/.sbt/preloaded/org.scala-lang.modules/scala-xml_2.12/1.0.6/bundles/scala-xml_2.12.jar
+	 trying file:////root/.sbt/preloaded/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar
+		tried file:////root/.sbt/preloaded/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar
+	local-preloaded: resource not reachable for org/scala-lang/modules#scala-xml_2.12;1.0.6: res=file:////root/.sbt/preloaded/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar
+	 trying https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar
+		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar
+no source artifact found for org.scala-lang.modules#scala-xml_2.12;1.0.6
+no javadoc artifact found for org.scala-lang.modules#scala-xml_2.12;1.0.6
+	default-cache: parsed downloaded md file for org.scala-lang.modules#scala-xml_2.12;1.0.6; parsed=org.scala-lang.modules#scala-xml_2.12;1.0.6
+	checking org.scala-lang.modules#scala-xml_2.12;1.0.6 from Maven Central against [none]
+	module revision kept as first found: org.scala-lang.modules#scala-xml_2.12;1.0.6 from Maven Central
+	found org.scala-lang.modules#scala-xml_2.12;1.0.6 in Maven Central
+== resolving dependencies org.scala-lang#scala-compiler;2.12.10->org.scala-lang.modules#scala-xml_2.12;1.0.6 [compile->compile(*)]
+loadData of org.scala-lang.modules#scala-xml_2.12;1.0.6 of rootConf=default
+== resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.0.6->org.scala-lang#scala-library;2.12.0 [compile->master(*)]
+loadData of org.scala-lang#scala-library;2.12.0 of rootConf=default
+default is evicted.  Skip loading
+== resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.0.6->org.scala-lang#scala-library;2.12.10 [compile->master(*)]
+loadData of org.scala-lang#scala-library;2.12.10 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.0.6->org.scala-lang#scala-library;2.12.0 [compile->compile(*)]
+loadData of org.scala-lang#scala-library;2.12.0 of rootConf=default
+default is evicted.  Skip loading
+== resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.0.6->org.scala-lang#scala-library;2.12.10 [compile->compile(*)]
+loadData of org.scala-lang#scala-library;2.12.10 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-lang#scala-compiler;2.12.10->org.scala-lang.modules#scala-xml_2.12;1.0.6 [compile->runtime(*)]
+loadData of org.scala-lang.modules#scala-xml_2.12;1.0.6 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.12.10->org.scala-lang.modules#scala-xml_2.12;1.0.6 [compile->compile]
+loadData of org.scala-lang.modules#scala-xml_2.12;1.0.6 of rootConf=default
+== resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.0.6->org.scala-lang#scala-library;2.12.0 [runtime->runtime(*)]
+loadData of org.scala-lang#scala-library;2.12.0 of rootConf=default
+default is evicted.  Skip loading
+== resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.0.6->org.scala-lang#scala-library;2.12.10 [runtime->runtime(*)]
+loadData of org.scala-lang#scala-library;2.12.10 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.0.6->org.scala-lang#scala-library;2.12.10 [runtime->compile]
+loadData of org.scala-lang#scala-library;2.12.10 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-lang#scala-compiler;2.12.10->org.scala-lang#scala-library;2.12.10 [runtime->runtime(*)]
+loadData of org.scala-lang#scala-library;2.12.10 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-lang#scala-compiler;2.12.10->org.scala-lang#scala-library;2.12.10 [runtime->compile]
+loadData of org.scala-lang#scala-library;2.12.10 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-lang#scala-compiler;2.12.10->org.scala-lang#scala-reflect;2.12.10 [runtime->runtime(*)]
+loadData of org.scala-lang#scala-reflect;2.12.10 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-lang#scala-compiler;2.12.10->org.scala-lang#scala-reflect;2.12.10 [runtime->compile]
+loadData of org.scala-lang#scala-reflect;2.12.10 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-lang#scala-compiler;2.12.10->org.scala-lang.modules#scala-xml_2.12;1.0.6 [runtime->runtime(*)]
+loadData of org.scala-lang.modules#scala-xml_2.12;1.0.6 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-lang#scala-compiler;2.12.10->org.scala-lang.modules#scala-xml_2.12;1.0.6 [runtime->compile]
+loadData of org.scala-lang.modules#scala-xml_2.12;1.0.6 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#boot-scala;1.0->org.scala-lang#scala-compiler;2.12.10 [default->master]
+loadData of org.scala-lang#scala-compiler;2.12.10 of rootConf=default
+== resolving dependencies org.scala-sbt#boot-scala;1.0->org.scala-lang#scala-compiler;2.12.10 [default->optional(default)]
+loadData of org.scala-lang#scala-compiler;2.12.10 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.12.10->jline#jline;2.14.6 [optional->master(*)]
+loadData of jline#jline;2.14.6 of rootConf=default
+	using redefined-public to resolve jline#jline;2.14.6
+redefined-public: Checking cache for: dependency: jline#jline;2.14.6 {optional=[compile(*), master(*)]}
+No entry is found in the ModuleDescriptorCache : /root/.ivy2/cache/jline/jline/ivy-2.14.6.xml
+post 1.3 ivy file: using exact as default matcher
+	resolver not found: null => trying to use the one configured for jline#jline;2.14.6
+	configured resolver found for jline#jline;2.14.6: redefined-public: saving this data
+	found ivy file in cache for jline#jline;2.14.6 (resolved by redefined-public): /root/.ivy2/cache/jline/jline/ivy-2.14.6.xml
+redefined-public: module revision found in cache: jline#jline;2.14.6
+	found jline#jline;2.14.6 in redefined-public
+== resolving dependencies org.scala-lang#scala-compiler;2.12.10->jline#jline;2.14.6 [optional->compile(*)]
+loadData of jline#jline;2.14.6 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.12.10->org.fusesource.jansi#jansi;1.12 [optional->master(*)]
+loadData of org.fusesource.jansi#jansi;1.12 of rootConf=default
+	using redefined-public to resolve org.fusesource.jansi#jansi;1.12
+redefined-public: Checking cache for: dependency: org.fusesource.jansi#jansi;1.12 {optional=[compile(*), master(*)]}
+	no ivy file in cache for org.fusesource.jansi#jansi;1.12: tried /root/.ivy2/cache/org.fusesource.jansi/jansi/ivy-1.12.xml
+	no ivy file in cache for org.fusesource.jansi#jansi;1.12: tried /root/.ivy2/cache/org.fusesource.jansi/jansi/ivy-1.12.xml
+	 trying /root/.ivy2/local/org.fusesource.jansi/jansi/1.12/ivys/ivy.xml
+		tried /root/.ivy2/local/org.fusesource.jansi/jansi/1.12/ivys/ivy.xml
+	local: resource not reachable for org.fusesource.jansi#jansi;1.12: res=/root/.ivy2/local/org.fusesource.jansi/jansi/1.12/ivys/ivy.xml
+	 trying /root/.ivy2/local/org.fusesource.jansi/jansi/1.12/jars/jansi.jar
+		tried /root/.ivy2/local/org.fusesource.jansi/jansi/1.12/jars/jansi.jar
+	local: resource not reachable for org.fusesource.jansi#jansi;1.12: res=/root/.ivy2/local/org.fusesource.jansi/jansi/1.12/jars/jansi.jar
+	local: no ivy file nor artifact found for org.fusesource.jansi#jansi;1.12
+	no ivy file in cache for org.fusesource.jansi#jansi;1.12: tried /root/.ivy2/cache/org.fusesource.jansi/jansi/ivy-1.12.xml
+	 trying file:////root/.sbt/preloaded/org.fusesource.jansi/jansi/1.12/ivys/ivy.xml
+		tried file:////root/.sbt/preloaded/org.fusesource.jansi/jansi/1.12/ivys/ivy.xml
+	local-preloaded-ivy: resource not reachable for org.fusesource.jansi#jansi;1.12: res=file:////root/.sbt/preloaded/org.fusesource.jansi/jansi/1.12/ivys/ivy.xml
+	local-preloaded-ivy: no ivy file found for org.fusesource.jansi#jansi;1.12
+	no ivy file in cache for org.fusesource.jansi#jansi;1.12: tried /root/.ivy2/cache/org.fusesource.jansi/jansi/ivy-1.12.xml
+	 trying file:////root/.sbt/preloaded/org/fusesource/jansi/jansi/1.12/jansi-1.12.pom
+		tried file:////root/.sbt/preloaded/org/fusesource/jansi/jansi/1.12/jansi-1.12.pom
+	local-preloaded: resource not reachable for org/fusesource/jansi#jansi;1.12: res=file:////root/.sbt/preloaded/org/fusesource/jansi/jansi/1.12/jansi-1.12.pom
+	 trying file:////root/.sbt/preloaded/org/fusesource/jansi/jansi/1.12/jansi-1.12.jar
+		tried file:////root/.sbt/preloaded/org/fusesource/jansi/jansi/1.12/jansi-1.12.jar
+	local-preloaded: resource not reachable for org/fusesource/jansi#jansi;1.12: res=file:////root/.sbt/preloaded/org/fusesource/jansi/jansi/1.12/jansi-1.12.jar
+	local-preloaded: no ivy file nor artifact found for org.fusesource.jansi#jansi;1.12
+	no ivy file in cache for org.fusesource.jansi#jansi;1.12: tried /root/.ivy2/cache/org.fusesource.jansi/jansi/ivy-1.12.xml
+	 trying https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.12/jansi-1.12.pom
+		tried https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.12/jansi-1.12.pom
+	Maven Central: found md file for org.fusesource.jansi#jansi;1.12
+		=> https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.12/jansi-1.12.pom (1.12)
+	parser = pom parser
+	no ivy file in cache for org.fusesource.jansi#jansi;1.12: tried /root/.ivy2/cache/org.fusesource.jansi/jansi/ivy-1.12.xml
+downloading https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.12/jansi-1.12.pom ...
+	Maven Central: downloading https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.12/jansi-1.12.pom
+		to /root/.ivy2/cache/org.fusesource.jansi/jansi/ivy-1.12.xml.original.part
+sha1 file found for https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.12/jansi-1.12.pom: checking...
+	Maven Central: downloading https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.12/jansi-1.12.pom.sha1
+		to /tmp/ivytmp1096175250872918380sha1
+sha1 OK for https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.12/jansi-1.12.pom
+	[SUCCESSFUL ] org.fusesource.jansi#jansi;1.12!jansi.pom(pom.original) (574ms)
+redefined-public: Checking cache for: dependency: org.fusesource.jansi#jansi-project;1.12 {}
+	no ivy file in cache for org.fusesource.jansi#jansi-project;1.12: tried /root/.ivy2/cache/org.fusesource.jansi/jansi-project/ivy-1.12.xml
+	no ivy file in cache for org.fusesource.jansi#jansi-project;1.12: tried /root/.ivy2/cache/org.fusesource.jansi/jansi-project/ivy-1.12.xml
+	 trying /root/.ivy2/local/org.fusesource.jansi/jansi-project/1.12/ivys/ivy.xml
+		tried /root/.ivy2/local/org.fusesource.jansi/jansi-project/1.12/ivys/ivy.xml
+	local: resource not reachable for org.fusesource.jansi#jansi-project;1.12: res=/root/.ivy2/local/org.fusesource.jansi/jansi-project/1.12/ivys/ivy.xml
+	 trying /root/.ivy2/local/org.fusesource.jansi/jansi-project/1.12/jars/jansi-project.jar
+		tried /root/.ivy2/local/org.fusesource.jansi/jansi-project/1.12/jars/jansi-project.jar
+	local: resource not reachable for org.fusesource.jansi#jansi-project;1.12: res=/root/.ivy2/local/org.fusesource.jansi/jansi-project/1.12/jars/jansi-project.jar
+	local: no ivy file nor artifact found for org.fusesource.jansi#jansi-project;1.12
+	no ivy file in cache for org.fusesource.jansi#jansi-project;1.12: tried /root/.ivy2/cache/org.fusesource.jansi/jansi-project/ivy-1.12.xml
+	 trying file:////root/.sbt/preloaded/org.fusesource.jansi/jansi-project/1.12/ivys/ivy.xml
+		tried file:////root/.sbt/preloaded/org.fusesource.jansi/jansi-project/1.12/ivys/ivy.xml
+	local-preloaded-ivy: resource not reachable for org.fusesource.jansi#jansi-project;1.12: res=file:////root/.sbt/preloaded/org.fusesource.jansi/jansi-project/1.12/ivys/ivy.xml
+	local-preloaded-ivy: no ivy file found for org.fusesource.jansi#jansi-project;1.12
+	no ivy file in cache for org.fusesource.jansi#jansi-project;1.12: tried /root/.ivy2/cache/org.fusesource.jansi/jansi-project/ivy-1.12.xml
+	 trying file:////root/.sbt/preloaded/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.pom
+		tried file:////root/.sbt/preloaded/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.pom
+	local-preloaded: resource not reachable for org/fusesource/jansi#jansi-project;1.12: res=file:////root/.sbt/preloaded/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.pom
+	 trying file:////root/.sbt/preloaded/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.jar
+		tried file:////root/.sbt/preloaded/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.jar
+	local-preloaded: resource not reachable for org/fusesource/jansi#jansi-project;1.12: res=file:////root/.sbt/preloaded/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.jar
+	local-preloaded: no ivy file nor artifact found for org.fusesource.jansi#jansi-project;1.12
+	no ivy file in cache for org.fusesource.jansi#jansi-project;1.12: tried /root/.ivy2/cache/org.fusesource.jansi/jansi-project/ivy-1.12.xml
+	 trying https://repo1.maven.org/maven2/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.pom
+		tried https://repo1.maven.org/maven2/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.pom
+	Maven Central: found md file for org.fusesource.jansi#jansi-project;1.12
+		=> https://repo1.maven.org/maven2/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.pom (1.12)
+	parser = pom parser
+	no ivy file in cache for org.fusesource.jansi#jansi-project;1.12: tried /root/.ivy2/cache/org.fusesource.jansi/jansi-project/ivy-1.12.xml
+downloading https://repo1.maven.org/maven2/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.pom ...
+	Maven Central: downloading https://repo1.maven.org/maven2/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.pom
+		to /root/.ivy2/cache/org.fusesource.jansi/jansi-project/ivy-1.12.xml.original.part
+sha1 file found for https://repo1.maven.org/maven2/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.pom: checking...
+	Maven Central: downloading https://repo1.maven.org/maven2/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.pom.sha1
+		to /tmp/ivytmp8684192214242715280sha1
+sha1 OK for https://repo1.maven.org/maven2/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.pom
+	[SUCCESSFUL ] org.fusesource.jansi#jansi-project;1.12!jansi-project.pom(pom.original) (562ms)
+redefined-public: Checking cache for: dependency: org.fusesource#fusesource-pom;1.11 {}
+	no ivy file in cache for org.fusesource#fusesource-pom;1.11: tried /root/.ivy2/cache/org.fusesource/fusesource-pom/ivy-1.11.xml
+	no ivy file in cache for org.fusesource#fusesource-pom;1.11: tried /root/.ivy2/cache/org.fusesource/fusesource-pom/ivy-1.11.xml
+	 trying /root/.ivy2/local/org.fusesource/fusesource-pom/1.11/ivys/ivy.xml
+		tried /root/.ivy2/local/org.fusesource/fusesource-pom/1.11/ivys/ivy.xml
+	local: resource not reachable for org.fusesource#fusesource-pom;1.11: res=/root/.ivy2/local/org.fusesource/fusesource-pom/1.11/ivys/ivy.xml
+	 trying /root/.ivy2/local/org.fusesource/fusesource-pom/1.11/jars/fusesource-pom.jar
+		tried /root/.ivy2/local/org.fusesource/fusesource-pom/1.11/jars/fusesource-pom.jar
+	local: resource not reachable for org.fusesource#fusesource-pom;1.11: res=/root/.ivy2/local/org.fusesource/fusesource-pom/1.11/jars/fusesource-pom.jar
+	local: no ivy file nor artifact found for org.fusesource#fusesource-pom;1.11
+	no ivy file in cache for org.fusesource#fusesource-pom;1.11: tried /root/.ivy2/cache/org.fusesource/fusesource-pom/ivy-1.11.xml
+	 trying file:////root/.sbt/preloaded/org.fusesource/fusesource-pom/1.11/ivys/ivy.xml
+		tried file:////root/.sbt/preloaded/org.fusesource/fusesource-pom/1.11/ivys/ivy.xml
+	local-preloaded-ivy: resource not reachable for org.fusesource#fusesource-pom;1.11: res=file:////root/.sbt/preloaded/org.fusesource/fusesource-pom/1.11/ivys/ivy.xml
+	local-preloaded-ivy: no ivy file found for org.fusesource#fusesource-pom;1.11
+	no ivy file in cache for org.fusesource#fusesource-pom;1.11: tried /root/.ivy2/cache/org.fusesource/fusesource-pom/ivy-1.11.xml
+	 trying file:////root/.sbt/preloaded/org/fusesource/fusesource-pom/1.11/fusesource-pom-1.11.pom
+		tried file:////root/.sbt/preloaded/org/fusesource/fusesource-pom/1.11/fusesource-pom-1.11.pom
+	local-preloaded: resource not reachable for org/fusesource#fusesource-pom;1.11: res=file:////root/.sbt/preloaded/org/fusesource/fusesource-pom/1.11/fusesource-pom-1.11.pom
+	 trying file:////root/.sbt/preloaded/org/fusesource/fusesource-pom/1.11/fusesource-pom-1.11.jar
+		tried file:////root/.sbt/preloaded/org/fusesource/fusesource-pom/1.11/fusesource-pom-1.11.jar
+	local-preloaded: resource not reachable for org/fusesource#fusesource-pom;1.11: res=file:////root/.sbt/preloaded/org/fusesource/fusesource-pom/1.11/fusesource-pom-1.11.jar
+	local-preloaded: no ivy file nor artifact found for org.fusesource#fusesource-pom;1.11
+	no ivy file in cache for org.fusesource#fusesource-pom;1.11: tried /root/.ivy2/cache/org.fusesource/fusesource-pom/ivy-1.11.xml
+	 trying https://repo1.maven.org/maven2/org/fusesource/fusesource-pom/1.11/fusesource-pom-1.11.pom
+		tried https://repo1.maven.org/maven2/org/fusesource/fusesource-pom/1.11/fusesource-pom-1.11.pom
+	Maven Central: found md file for org.fusesource#fusesource-pom;1.11
+		=> https://repo1.maven.org/maven2/org/fusesource/fusesource-pom/1.11/fusesource-pom-1.11.pom (1.11)
+	parser = pom parser
+	no ivy file in cache for org.fusesource#fusesource-pom;1.11: tried /root/.ivy2/cache/org.fusesource/fusesource-pom/ivy-1.11.xml
+downloading https://repo1.maven.org/maven2/org/fusesource/fusesource-pom/1.11/fusesource-pom-1.11.pom ...
+	Maven Central: downloading https://repo1.maven.org/maven2/org/fusesource/fusesource-pom/1.11/fusesource-pom-1.11.pom
+		to /root/.ivy2/cache/org.fusesource/fusesource-pom/ivy-1.11.xml.original.part
+sha1 file found for https://repo1.maven.org/maven2/org/fusesource/fusesource-pom/1.11/fusesource-pom-1.11.pom: checking...
+	Maven Central: downloading https://repo1.maven.org/maven2/org/fusesource/fusesource-pom/1.11/fusesource-pom-1.11.pom.sha1
+		to /tmp/ivytmp2197148066891422224sha1
+sha1 OK for https://repo1.maven.org/maven2/org/fusesource/fusesource-pom/1.11/fusesource-pom-1.11.pom
+	[SUCCESSFUL ] org.fusesource#fusesource-pom;1.11!fusesource-pom.pom(pom.original) (610ms)
+	 trying /root/.ivy2/local/org.fusesource/fusesource-pom/1.11/jars/fusesource-pom.jar
+		tried /root/.ivy2/local/org.fusesource/fusesource-pom/1.11/jars/fusesource-pom.jar
+	local: resource not reachable for org.fusesource#fusesource-pom;1.11: res=/root/.ivy2/local/org.fusesource/fusesource-pom/1.11/jars/fusesource-pom.jar
+	 trying file:////root/.sbt/preloaded/org.fusesource/fusesource-pom/1.11/jars/fusesource-pom.jar
+		tried file:////root/.sbt/preloaded/org.fusesource/fusesource-pom/1.11/jars/fusesource-pom.jar
+	local-preloaded-ivy: resource not reachable for org.fusesource#fusesource-pom;1.11: res=file:////root/.sbt/preloaded/org.fusesource/fusesource-pom/1.11/jars/fusesource-pom.jar
+	 trying file:////root/.sbt/preloaded/org/fusesource/fusesource-pom/1.11/fusesource-pom-1.11.jar
+		tried file:////root/.sbt/preloaded/org/fusesource/fusesource-pom/1.11/fusesource-pom-1.11.jar
+	local-preloaded: resource not reachable for org/fusesource#fusesource-pom;1.11: res=file:////root/.sbt/preloaded/org/fusesource/fusesource-pom/1.11/fusesource-pom-1.11.jar
+	 trying https://repo1.maven.org/maven2/org/fusesource/fusesource-pom/1.11/fusesource-pom-1.11.jar
+		tried https://repo1.maven.org/maven2/org/fusesource/fusesource-pom/1.11/fusesource-pom-1.11.jar
+HTTP response status: 404 url=https://repo1.maven.org/maven2/org/fusesource/fusesource-pom/1.11/fusesource-pom-1.11.jar
+CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/fusesource/fusesource-pom/1.11/fusesource-pom-1.11.jar
+	Maven Central: resource not reachable for org/fusesource#fusesource-pom;1.11: res=https://repo1.maven.org/maven2/org/fusesource/fusesource-pom/1.11/fusesource-pom-1.11.jar
+sbt-maven-releases: no namespace defined: using system
+	 trying https://repo.scala-sbt.org/scalasbt/maven-releases/org/fusesource/fusesource-pom/1.11/fusesource-pom-1.11.jar
+		tried https://repo.scala-sbt.org/scalasbt/maven-releases/org/fusesource/fusesource-pom/1.11/fusesource-pom-1.11.jar
+HTTP response status: 404 url=https://repo.scala-sbt.org/scalasbt/maven-releases/org/fusesource/fusesource-pom/1.11/fusesource-pom-1.11.jar
+CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/maven-releases/org/fusesource/fusesource-pom/1.11/fusesource-pom-1.11.jar
+	sbt-maven-releases: resource not reachable for org/fusesource#fusesource-pom;1.11: res=https://repo.scala-sbt.org/scalasbt/maven-releases/org/fusesource/fusesource-pom/1.11/fusesource-pom-1.11.jar
+sbt-maven-snapshots: no namespace defined: using system
+	 trying https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/fusesource/fusesource-pom/1.11/fusesource-pom-1.11.jar
+		tried https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/fusesource/fusesource-pom/1.11/fusesource-pom-1.11.jar
+HTTP response status: 404 url=https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/fusesource/fusesource-pom/1.11/fusesource-pom-1.11.jar
+CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/fusesource/fusesource-pom/1.11/fusesource-pom-1.11.jar
+	sbt-maven-snapshots: resource not reachable for org/fusesource#fusesource-pom;1.11: res=https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/fusesource/fusesource-pom/1.11/fusesource-pom-1.11.jar
+typesafe-ivy-releases: no namespace defined: using system
+	 trying https://repo.typesafe.com/typesafe/ivy-releases/org.fusesource/fusesource-pom/1.11/jars/fusesource-pom.jar
+		tried https://repo.typesafe.com/typesafe/ivy-releases/org.fusesource/fusesource-pom/1.11/jars/fusesource-pom.jar
+HTTP response status: 404 url=https://repo.typesafe.com/typesafe/ivy-releases/org.fusesource/fusesource-pom/1.11/jars/fusesource-pom.jar
+CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/org.fusesource/fusesource-pom/1.11/jars/fusesource-pom.jar
+	typesafe-ivy-releases: resource not reachable for org.fusesource#fusesource-pom;1.11: res=https://repo.typesafe.com/typesafe/ivy-releases/org.fusesource/fusesource-pom/1.11/jars/fusesource-pom.jar
+sbt-ivy-snapshots: no namespace defined: using system
+	 trying https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.fusesource/fusesource-pom/1.11/jars/fusesource-pom.jar
+		tried https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.fusesource/fusesource-pom/1.11/jars/fusesource-pom.jar
+HTTP response status: 404 url=https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.fusesource/fusesource-pom/1.11/jars/fusesource-pom.jar
+CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.fusesource/fusesource-pom/1.11/jars/fusesource-pom.jar
+	sbt-ivy-snapshots: resource not reachable for org.fusesource#fusesource-pom;1.11: res=https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.fusesource/fusesource-pom/1.11/jars/fusesource-pom.jar
+	default-cache: parsed downloaded md file for org.fusesource#fusesource-pom;1.11; parsed=org.fusesource#fusesource-pom;1.11
+	checking org.fusesource#fusesource-pom;1.11 from Maven Central against [none]
+	module revision kept as first found: org.fusesource#fusesource-pom;1.11 from Maven Central
+	 trying /root/.ivy2/local/org.fusesource.jansi/jansi-project/1.12/jars/jansi-project.jar
+		tried /root/.ivy2/local/org.fusesource.jansi/jansi-project/1.12/jars/jansi-project.jar
+	local: resource not reachable for org.fusesource.jansi#jansi-project;1.12: res=/root/.ivy2/local/org.fusesource.jansi/jansi-project/1.12/jars/jansi-project.jar
+	 trying file:////root/.sbt/preloaded/org.fusesource.jansi/jansi-project/1.12/jars/jansi-project.jar
+		tried file:////root/.sbt/preloaded/org.fusesource.jansi/jansi-project/1.12/jars/jansi-project.jar
+	local-preloaded-ivy: resource not reachable for org.fusesource.jansi#jansi-project;1.12: res=file:////root/.sbt/preloaded/org.fusesource.jansi/jansi-project/1.12/jars/jansi-project.jar
+	 trying file:////root/.sbt/preloaded/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.jar
+		tried file:////root/.sbt/preloaded/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.jar
+	local-preloaded: resource not reachable for org/fusesource/jansi#jansi-project;1.12: res=file:////root/.sbt/preloaded/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.jar
+	 trying https://repo1.maven.org/maven2/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.jar
+		tried https://repo1.maven.org/maven2/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.jar
+HTTP response status: 404 url=https://repo1.maven.org/maven2/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.jar
+CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.jar
+	Maven Central: resource not reachable for org/fusesource/jansi#jansi-project;1.12: res=https://repo1.maven.org/maven2/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.jar
+	 trying https://repo.scala-sbt.org/scalasbt/maven-releases/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.jar
+		tried https://repo.scala-sbt.org/scalasbt/maven-releases/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.jar
+HTTP response status: 404 url=https://repo.scala-sbt.org/scalasbt/maven-releases/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.jar
+CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/maven-releases/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.jar
+	sbt-maven-releases: resource not reachable for org/fusesource/jansi#jansi-project;1.12: res=https://repo.scala-sbt.org/scalasbt/maven-releases/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.jar
+	 trying https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.jar
+		tried https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.jar
+HTTP response status: 404 url=https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.jar
+CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.jar
+	sbt-maven-snapshots: resource not reachable for org/fusesource/jansi#jansi-project;1.12: res=https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.jar
+	 trying https://repo.typesafe.com/typesafe/ivy-releases/org.fusesource.jansi/jansi-project/1.12/jars/jansi-project.jar
+		tried https://repo.typesafe.com/typesafe/ivy-releases/org.fusesource.jansi/jansi-project/1.12/jars/jansi-project.jar
+HTTP response status: 404 url=https://repo.typesafe.com/typesafe/ivy-releases/org.fusesource.jansi/jansi-project/1.12/jars/jansi-project.jar
+CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/org.fusesource.jansi/jansi-project/1.12/jars/jansi-project.jar
+	typesafe-ivy-releases: resource not reachable for org.fusesource.jansi#jansi-project;1.12: res=https://repo.typesafe.com/typesafe/ivy-releases/org.fusesource.jansi/jansi-project/1.12/jars/jansi-project.jar
+	 trying https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.fusesource.jansi/jansi-project/1.12/jars/jansi-project.jar
+		tried https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.fusesource.jansi/jansi-project/1.12/jars/jansi-project.jar
+HTTP response status: 404 url=https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.fusesource.jansi/jansi-project/1.12/jars/jansi-project.jar
+CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.fusesource.jansi/jansi-project/1.12/jars/jansi-project.jar
+	sbt-ivy-snapshots: resource not reachable for org.fusesource.jansi#jansi-project;1.12: res=https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.fusesource.jansi/jansi-project/1.12/jars/jansi-project.jar
+	default-cache: parsed downloaded md file for org.fusesource.jansi#jansi-project;1.12; parsed=org.fusesource.jansi#jansi-project;1.12
+	checking org.fusesource.jansi#jansi-project;1.12 from Maven Central against [none]
+	module revision kept as first found: org.fusesource.jansi#jansi-project;1.12 from Maven Central
+	 trying /root/.ivy2/local/org.fusesource.jansi/jansi/1.12/jars/jansi.jar
+		tried /root/.ivy2/local/org.fusesource.jansi/jansi/1.12/jars/jansi.jar
+	local: resource not reachable for org.fusesource.jansi#jansi;1.12: res=/root/.ivy2/local/org.fusesource.jansi/jansi/1.12/jars/jansi.jar
+	 trying file:////root/.sbt/preloaded/org.fusesource.jansi/jansi/1.12/jars/jansi.jar
+		tried file:////root/.sbt/preloaded/org.fusesource.jansi/jansi/1.12/jars/jansi.jar
+	local-preloaded-ivy: resource not reachable for org.fusesource.jansi#jansi;1.12: res=file:////root/.sbt/preloaded/org.fusesource.jansi/jansi/1.12/jars/jansi.jar
+	 trying file:////root/.sbt/preloaded/org/fusesource/jansi/jansi/1.12/jansi-1.12.jar
+		tried file:////root/.sbt/preloaded/org/fusesource/jansi/jansi/1.12/jansi-1.12.jar
+	local-preloaded: resource not reachable for org/fusesource/jansi#jansi;1.12: res=file:////root/.sbt/preloaded/org/fusesource/jansi/jansi/1.12/jansi-1.12.jar
+	 trying https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.12/jansi-1.12.jar
+		tried https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.12/jansi-1.12.jar
+no source artifact found for org.fusesource.jansi#jansi;1.12
+no javadoc artifact found for org.fusesource.jansi#jansi;1.12
+	default-cache: parsed downloaded md file for org.fusesource.jansi#jansi;1.12; parsed=org.fusesource.jansi#jansi;1.12
+	checking org.fusesource.jansi#jansi;1.12 from Maven Central against [none]
+	module revision kept as first found: org.fusesource.jansi#jansi;1.12 from Maven Central
+	found org.fusesource.jansi#jansi;1.12 in Maven Central
+== resolving dependencies org.scala-lang#scala-compiler;2.12.10->org.fusesource.jansi#jansi;1.12 [optional->compile(*)]
+loadData of org.fusesource.jansi#jansi;1.12 of rootConf=default
+== resolving dependencies org.scala-sbt#boot-scala;1.0->org.scala-lang#scala-library;2.12.10 [default->default]
+loadData of org.scala-lang#scala-library;2.12.10 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#boot-scala;1.0->org.scala-lang#scala-library;2.12.10 [default->runtime]
+loadData of org.scala-lang#scala-library;2.12.10 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#boot-scala;1.0->org.scala-lang#scala-library;2.12.10 [default->compile]
+loadData of org.scala-lang#scala-library;2.12.10 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#boot-scala;1.0->org.scala-lang#scala-library;2.12.10 [default->master]
+loadData of org.scala-lang#scala-library;2.12.10 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+Nbr of module to sort : 6
+Sort dependencies of : org.scala-lang#scala-compiler;2.12.10 / Number of dependencies = 5
+Sort dependencies of : org.scala-lang#scala-library;2.12.10 / Number of dependencies = 0
+Sort done for : org.scala-lang#scala-library;2.12.10
+Sort dependencies of : org.scala-lang#scala-reflect;2.12.10 / Number of dependencies = 1
+Module descriptor is processed : org.scala-lang#scala-library;2.12.10
+Sort done for : org.scala-lang#scala-reflect;2.12.10
+Sort dependencies of : org.scala-lang.modules#scala-xml_2.12;1.0.6 / Number of dependencies = 4
+Non matching revision detected when sorting.  org.scala-lang.modules#scala-xml_2.12 depends on org.scala-lang#scala-compiler;2.12.0, doesn't match org.scala-lang#scala-compiler;2.12.10
+Non matching revision detected when sorting.  org.scala-lang.modules#scala-xml_2.12 depends on org.scala-lang#scala-library;2.12.0, doesn't match org.scala-lang#scala-library;2.12.10
+Sort done for : org.scala-lang.modules#scala-xml_2.12;1.0.6
+Sort dependencies of : jline#jline;2.14.6 / Number of dependencies = 4
+Sort done for : jline#jline;2.14.6
+Sort dependencies of : org.fusesource.jansi#jansi;1.12 / Number of dependencies = 1
+Sort done for : org.fusesource.jansi#jansi;1.12
+Sort done for : org.scala-lang#scala-compiler;2.12.10
+Module descriptor is processed : org.scala-lang#scala-library;2.12.10
+Module descriptor is processed : org.scala-lang#scala-reflect;2.12.10
+Module descriptor is processed : org.scala-lang.modules#scala-xml_2.12;1.0.6
+Module descriptor is processed : jline#jline;2.14.6
+Module descriptor is processed : org.fusesource.jansi#jansi;1.12
+storing dependency org.scala-lang#scala-compiler;2.12.10 in props
+storing dependency org.scala-lang#scala-library;2.12.10 in props
+	resolved ivy file produced in cache
+:: downloading artifacts ::
+	 trying https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.12/jansi-1.12.jar
+		tried https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.12/jansi-1.12.jar
+	[NOT REQUIRED] org.scala-lang#scala-compiler;2.12.10!scala-compiler.jar
+	 trying https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar
+		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar
+	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.10!scala-reflect.jar
+downloading https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.12/jansi-1.12.jar ...
+	[NOT REQUIRED] org.scala-lang#scala-library;2.12.10!scala-library.jar
+downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar ...
+	Maven Central: downloading https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.12/jansi-1.12.jar
+		to /root/.ivy2/cache/org.fusesource.jansi/jansi/jars/jansi-1.12.jar.part
+	Maven Central: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar
+		to /root/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/bundles/scala-xml_2.12-1.0.6.jar.part
+	[NOT REQUIRED] jline#jline;2.14.6!jline.jar
+sha1 file found for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar: checking...
+	Maven Central: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar.sha1
+		to /tmp/ivytmp9146230478782364411sha1
+sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar
+	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(bundle) (750ms)
+sha1 file found for https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.12/jansi-1.12.jar: checking...
+	Maven Central: downloading https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.12/jansi-1.12.jar.sha1
+		to /tmp/ivytmp7541506810392510267sha1
+sha1 OK for https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.12/jansi-1.12.jar
+	[SUCCESSFUL ] org.fusesource.jansi#jansi;1.12!jansi.jar (1112ms)
+:: resolution report :: resolve 11876ms :: artifacts dl 1177ms
+Nbr of module to sort : 6
+Sort dependencies of : org.scala-lang#scala-compiler;2.12.10 / Number of dependencies = 5
+Sort dependencies of : org.scala-lang#scala-library;2.12.10 / Number of dependencies = 0
+Sort done for : org.scala-lang#scala-library;2.12.10
+Sort dependencies of : org.scala-lang#scala-reflect;2.12.10 / Number of dependencies = 1
+Module descriptor is processed : org.scala-lang#scala-library;2.12.10
+Sort done for : org.scala-lang#scala-reflect;2.12.10
+Sort dependencies of : org.scala-lang.modules#scala-xml_2.12;1.0.6 / Number of dependencies = 4
+Non matching revision detected when sorting.  org.scala-lang.modules#scala-xml_2.12 depends on org.scala-lang#scala-compiler;2.12.0, doesn't match org.scala-lang#scala-compiler;2.12.10
+Non matching revision detected when sorting.  org.scala-lang.modules#scala-xml_2.12 depends on org.scala-lang#scala-library;2.12.0, doesn't match org.scala-lang#scala-library;2.12.10
+Sort done for : org.scala-lang.modules#scala-xml_2.12;1.0.6
+Sort dependencies of : jline#jline;2.14.6 / Number of dependencies = 4
+Sort done for : jline#jline;2.14.6
+Sort dependencies of : org.fusesource.jansi#jansi;1.12 / Number of dependencies = 1
+Sort done for : org.fusesource.jansi#jansi;1.12
+Sort done for : org.scala-lang#scala-compiler;2.12.10
+Module descriptor is processed : org.scala-lang#scala-library;2.12.10
+Module descriptor is processed : org.scala-lang#scala-reflect;2.12.10
+Module descriptor is processed : org.scala-lang.modules#scala-xml_2.12;1.0.6
+Module descriptor is processed : jline#jline;2.14.6
+Module descriptor is processed : org.fusesource.jansi#jansi;1.12
+	report for org.scala-sbt#boot-scala;1.0 default produced in /root/.sbt/boot/resolution-cache/org.scala-sbt-boot-scala-default.xml
+	resolve done (11876ms resolve - 1177ms download)
+setting 'scala' to '2.12.10'
+:: retrieving :: org.scala-sbt#boot-scala
+	checkUpToDate=true
+post 1.3 ivy file: using exact as default matcher
+no explicit confs given for retrieve, using ivy file: file:/root/.sbt/boot/resolution-cache/resolved-org.scala-sbt-boot-scala-1.0.xml
+	confs: [default]
+	retrieving /root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.10.jar
+	retrieving /root/.ivy2/cache/org.fusesource.jansi/jansi/jars/jansi-1.12.jar
+	retrieving /root/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/bundles/scala-xml_2.12-1.0.6.jar
+	retrieving /root/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.12.10.jar
+	retrieving /root/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.10.jar
+	retrieving /root/.ivy2/cache/jline/jline/jars/jline-2.14.6.jar
+		to /root/.sbt/boot/scala-2.12.10/lib/scala-reflect.jar
+		to /root/.sbt/boot/scala-2.12.10/lib/jline.jar
+		to /root/.sbt/boot/scala-2.12.10/lib/scala-compiler.jar
+		to /root/.sbt/boot/scala-2.12.10/lib/scala-xml_2.12.jar
+		to /root/.sbt/boot/scala-2.12.10/lib/scala-library.jar
+		to /root/.sbt/boot/scala-2.12.10/lib/jansi.jar
+	6 artifacts copied, 0 already retrieved
+	retrieve done (285ms)

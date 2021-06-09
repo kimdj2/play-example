@@ -1,0 +1,37 @@
+version: '3'
+services:
+  play-scala:
+    image: hseeberger/scala-sbt:11.0.11_1.5.3_2.13.6
+    container_name: play-scala
+    ports:
+      - "9000:9000"
+    volumes:
+      - .:/source
+    command: sbt run
+    working_dir: /source
+    tty: true
+    networks:
+      - app-net
+  db:
+    build: ./docker/db
+    ports:
+      - "3306:3306"
+    container_name: db
+    volumes:
+      # 初期データを投入するSQLが格納されているdir
+      - ./docker/db/init:/docker-entrypoint-initdb.d
+      # データを永続化するときにマウントするdirを指定
+      - ./docker/db/mysql_data:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      # DB名
+      MYSQL_DATABASE:      twitter_clone
+      # timezoneを設定
+      TZ:                  Asia/Tokyo
+    # play-scalaと同一ネットワーク上に置く
+    networks:
+      - app-net
+
+networks:
+  app-net:
+    driver: bridge
